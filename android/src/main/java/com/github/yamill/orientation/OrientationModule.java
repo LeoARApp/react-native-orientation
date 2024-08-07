@@ -12,6 +12,7 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.util.Log;
+import android.os.Build;
 
 import com.facebook.common.logging.FLog;
 import com.facebook.react.bridge.Arguments;
